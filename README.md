@@ -400,8 +400,8 @@ python pipeline_tco_sas.py
 
 ## 📞 Soporte y Contacto
 
-**Autor:** Juan Rivas  
-**Email:** jrivas09@gmail.com  
+**Autores:** Paola Ico, John Alexis Rivas 
+**Email:** paola.ico9124@unaula.edu.co, john.rivas1509@unaula.edu.co 
 **Organización:** COMERCIALIZADORA DE REPUESTOS TCO SAS
 
 ---
