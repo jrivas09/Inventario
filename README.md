@@ -27,7 +27,7 @@ Explicación Técnica: Los archivos Excel se ingieren utilizando un entorno de n
 
  
 
-4. PIPELINE: Ingesta de datos automatizada (60%) 
+4. PIPELINE: Ingesta de datos automatizada
 
 Dado que tus archivos están en formato Excel y tienen 6 filas de encabezados corporativos antes de las columnas reales, primero debemos leerlos con Pandas y convertirlos a Spark. 
 
@@ -201,7 +201,7 @@ display(resumen_abc)
 
  
 
-6. APP o Visualización y Serving Endpoint (8%) 
+6. APP o Visualización y Serving Endpoint
 
 Serving Endpoint: Configura tu Databricks SQL Warehouse para exponer la tabla gold_ventas_abc. Deberás mostrar evidencia (capturas de pantalla) de que el endpoint está activo y listo para ser consumido.  
 
